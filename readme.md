@@ -24,7 +24,7 @@
 Ui **clone** do Google.
 
 
-## 🖥 tecnologias ultilizadas
+## 🖥 tecnologias utilizadas
 ---
 
 - [Html](https://clonedogoogle.netlify.app/)
